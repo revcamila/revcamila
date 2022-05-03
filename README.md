@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @revcamila
-- 👀 I’m interested in Software Development && QA Testing
+- 👀 I’m interested in Software Development and QA Testing
 - 🌱 I’m currently learning Frontend Development and C#
 - 👾 In my spare time I love playing videogames 
 - 🌿 I'm in love with nature.
