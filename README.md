@@ -1,6 +1,5 @@
 <h1> <b> Hi 🤓 </b> </h1>
- 
-             <h2> <b> About Me </b> </h2>
+                 <h2> <b> About Me </b> </h2>
 
 - 👋 Hi, I’m @revcamila
 - 👀 I’m interested in Software Development and QA Testing
