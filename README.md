@@ -11,4 +11,4 @@ revcamila/revcamila is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/revcamila=DenverCoder1)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/revcamila=DenverCoder1&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=radical)](https://git.io/streak-stats)
