@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @revcamila
 - 👀 I’m interested in Software Development and QA Testing
-- 🌱 I’m currently learning Fullstack Development at NUCBA & Software Development at IFTS °11
+- 🌱 I’m currently learning Fullstack Development at NUCBA 
 - <a href="https://profile-summary-for-github.com/user/revcamila"> 👩‍💻 Profile Summary </a>
 <!---
 revcamila/revcamila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
