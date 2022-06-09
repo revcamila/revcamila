@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 <h2><b> Contact Me ✨ </b></h2>
 <a href="https://www.linkedin.com/in/camila-revainera">💻 LinkedIn</a>
-💌 <b> revainera.camila@gmail.com </b>
+<br>💌 <b> revainera.camila@gmail.com </b></br>
